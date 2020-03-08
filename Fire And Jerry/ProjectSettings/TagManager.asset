@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Pond
+  - Treasure
+  - Fire
+  - Ground
   layers:
   - Default
   - TransparentFX
